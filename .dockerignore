@@ -1,0 +1,16 @@
+# Files to not push into docker containers
+README.md
+**.git*
+**.log
+**.pyc
+**.pyo
+**.pyd
+**.env
+**/__pycache__
+docker-compose.yml
+
+
+.venv
+.vscode
+run.sh
+Dockerfile
